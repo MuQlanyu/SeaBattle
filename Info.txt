@@ -1,0 +1,12 @@
+   Запуск Проекта
+
+- зайти в терминал
+- создать папку, в которой будет проект
+- git clone git@gitlab.akhcheck.ru:nikolai.navasardyan/project_navasardian_mun.git
+- cd project_navasardian_mun
+- git switch dev
+- cd Sea_battle
+- cmake CMakeLists.txt
+- make
+- ./Sea_battle
+
